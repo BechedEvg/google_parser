@@ -1,0 +1,1827 @@
+{
+    "number_pages": "1240",
+    "dict_page": {
+        "https://avtology.com/": {
+            "title": "Автология: Стоимость владения автомобилем на ...",
+            "description": "Рекомендательный сервис по подбору и обслуживанию автомобиля, на основе прогноза цены содержания транспортного средства.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/mazda": {
+            "title": "Стоимости владения Mazda, включая обслуживание",
+            "description": "Корпорация Mazda Motor свое нынешнее название получила в 1984 году, с момента основания в 1920 году она именовалась компанией Toyo Kogyo и занималась ...",
+            "len_title_desktop": 46,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/mitsubishi": {
+            "title": "Стоимости владения Mitsubishi, включая обслуживание",
+            "description": "Корпорацию Mitsubishi можно назвать «динозавром» японского автомобилестроения. Своими корнями компания уходит в 19 век, она образовалась еще в 1873 году и ...",
+            "len_title_desktop": 51,
+            "len_title_mobile": 63
+        },
+        "https://avtology.com/toyota": {
+            "title": "Стоимости владения Toyota, включая обслуживание",
+            "description": "Корпорацию Toyota Motor можно смело назвать «монстром» не только японского, но и мирового автомобилестроения. История Toyota, одного из крупнейших ...",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/skoda": {
+            "title": "Стоимости владения Skoda, включая обслуживание",
+            "description": "Автомобиль был создан на базе Volkswagen Golf IV, так как к моменту разработки и создания модели компания Skoda уже вошла в концерн Volkswagen. Сегодня в ...",
+            "len_title_desktop": 46,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/bmw": {
+            "title": "Стоимости владения BMW, включая обслуживание",
+            "description": "Компания «Баварский моторный завод», а именно так расшифровывается аббревиатура BMW, у истоков представляла собой завод по производству авиационных ...",
+            "len_title_desktop": 44,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/jeep": {
+            "title": "Стоимости владения Jeep, включая обслуживание",
+            "description": "Jeep как торговая марка был зарегистрирован в 1950 году, а в 1963 компания American Motors Corp. начала серийно выпускать полноприводные вседорожники с ...",
+            "len_title_desktop": 45,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/cars": {
+            "title": "Подбор автомобиля по финансовым параметрам владения",
+            "description": "Воспользуйтесь фильтром подбора авто по стоимости содержания, то или остаточной стоимости. Вы найдете оптимальное соотношение.",
+            "len_title_desktop": 51,
+            "len_title_mobile": 63
+        },
+        "https://avtology.com/tesla": {
+            "title": "Стоимости владения Tesla, включая обслуживание",
+            "description": "Американская компания Tesla является относительно молодой, она была создана М. Эберхардом в 2003 году, и основной ее целью было производство электромобиля ...",
+            "len_title_desktop": 46,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/ford": {
+            "title": "Стоимости владения Ford, включая обслуживание",
+            "description": "Компания Ford Motor родом из США, с ее конвейера сходит большое количество разнообразной техники. Ford выпускает легковые автомобили под одноименной маркой, ...",
+            "len_title_desktop": 45,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/alfa_romeo": {
+            "title": "Стоимости владения Alfa Romeo, включая обслуживание",
+            "description": "Спустя четыре года, в результате реорганизации возникла компания A.L.F.A., это аббревиатура наименования Anonima Lombarda Fabbrica di Automobili, что в переводе ...",
+            "len_title_desktop": 51,
+            "len_title_mobile": 63
+        },
+        "https://avtology.com/scion": {
+            "title": "Стоимости владения Scion, включая обслуживание",
+            "description": "Компания Scion была создана в 2003 году в Калифорнии, США, и является подразделением известного японского автопроизводителя Toyota.",
+            "len_title_desktop": 46,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/rover": {
+            "title": "Стоимости владения Rover, включая обслуживание",
+            "description": "Сегодня компания производит популярные легковые автомобили и вседорожники марок Rover и Land Rover, отличающиеся превосходным качеством и пользующиеся ...",
+            "len_title_desktop": 46,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/lexus": {
+            "title": "Стоимости владения Lexus, включая обслуживание",
+            "description": "Открыл линию Lexus автомобиль с индексом LS 400, он был выпущен в 1985 году, но в США в продажу поступил только в 1989 году после серии тест-драйвов и ...",
+            "len_title_desktop": 46,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/mg": {
+            "title": "Стоимости владения MG, включая обслуживание - Автология",
+            "description": "Список моделей и Стоимость владения для: MG.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/aston_martin": {
+            "title": "Стоимости владения Aston Martin, включая обслуживание",
+            "description": "Список моделей и Стоимость владения для: Aston Martin.",
+            "len_title_desktop": 53,
+            "len_title_mobile": 65
+        },
+        "https://avtology.com/land_rover": {
+            "title": "Стоимости владения Land Rover, включая обслуживание",
+            "description": "Автомобилестроительная компания Land Rover является дочерним предприятием английской компании Rover Group, которая, в свою очередь, принадлежит концерну BMW ...",
+            "len_title_desktop": 51,
+            "len_title_mobile": 63
+        },
+        "https://avtology.com/spectre": {
+            "title": "Стоимости владения Spectre, включая обслуживание",
+            "description": "Список моделей и Стоимость владения для: Spectre.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/wiesmann": {
+            "title": "Стоимости владения Wiesmann, включая обслуживание",
+            "description": "Список моделей и Стоимость владения для: Wiesmann.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/maserati": {
+            "title": "Стоимости владения Maserati, включая обслуживание",
+            "description": "Список моделей и Стоимость владения для: Maserati.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/santana": {
+            "title": "Стоимости владения Santana, включая обслуживание",
+            "description": "Список моделей и Стоимость владения для: Santana.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/dadi": {
+            "title": "Стоимости владения Dadi, включая обслуживание - Автология",
+            "description": "Список моделей и Стоимость владения для: Dadi.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/dallas": {
+            "title": "Стоимости владения Dallas, включая обслуживание",
+            "description": "Список моделей и Стоимость владения для: Dallas.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/bugatti": {
+            "title": "Стоимости владения Bugatti, включая обслуживание",
+            "description": "Список моделей и Стоимость владения для: Bugatti.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/ssang_yong/actyon_sports": {
+            "title": "Стоимость владения Ssang Yong Actyon Sports, включая ...",
+            "description": "Узнай стоимость обслуживания Ssang Yong Actyon Sports - [Ssang Yong Actyon Sports] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/seat/leon_cupra": {
+            "title": "Стоимость владения SEAT Leon Cupra, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Сеат Leon Cupra - [SEAT Leon Cupra] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 51,
+            "len_title_mobile": 63
+        },
+        "https://avtology.com/nissan/almera_classic": {
+            "title": "Стоимость владения Nissan Almera Classic, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ниссан Almera Classic - [Nissan Almera Classic] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/nissan/tiida": {
+            "title": "Стоимость владения Nissan Tiida, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ниссан Tiida - [Nissan Tiida] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/chevrolet/camaro": {
+            "title": "Стоимость владения Chevrolet Camaro, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Шевроле Камаро - [Chevrolet Camaro] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 52,
+            "len_title_mobile": 52
+        },
+        "https://avtology.com/infiniti/m": {
+            "title": "Стоимость владения Infiniti M, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания инфинити M - [Infiniti M] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 58,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/volvo/v60": {
+            "title": "Стоимость владения Volvo V60, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Вольво V60 - [Volvo V60] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/alfa_romeo/sz": {
+            "title": "Стоимость владения Alfa Romeo SZ, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Альфа Ромео SZ - [Alfa Romeo SZ] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/porsche/911": {
+            "title": "Стоимость владения Porsche 911, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Порш 911 - [Porsche 911] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/chevrolet/trailblazer": {
+            "title": "Стоимость владения Chevrolet Trailblazer, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Шевроле ТрайлБлазер - [Chevrolet Trailblazer] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/citroen/ds4": {
+            "title": "Стоимость владения Citroen DS4, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ситроен DS4 - [Citroen DS4] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/chana/benni": {
+            "title": "Стоимость владения Chana Benni, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Chana Benni - [Chana Benni] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/toyota/venza": {
+            "title": "Стоимость владения Toyota Venza, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Тойота Venza - [Toyota Venza] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/ford/mustang": {
+            "title": "Стоимость владения Ford Mustang, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Форд Мустанг - [Ford Mustang] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/nissan/rogue": {
+            "title": "Стоимость владения Nissan Rogue, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ниссан Rogue - [Nissan Rogue] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/lexus/ls_460": {
+            "title": "Стоимость владения Lexus LS 460, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Лексус LS 460 - [Lexus LS 460] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/renault/sandero": {
+            "title": "Стоимость владения Renault Sandero, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Рено Сандеро - [Renault Sandero] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 51,
+            "len_title_mobile": 51
+        },
+        "https://avtology.com/acura/mdx": {
+            "title": "Стоимость владения Acura MDX, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Акура MDX - [Acura MDX] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 45,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/peugeot/308": {
+            "title": "Стоимость владения Peugeot 308, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Пежо 308 - [Peugeot 308] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/ford/expedition": {
+            "title": "Стоимость владения Ford Expedition, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Форд Экспедишн - [Ford Expedition] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 51,
+            "len_title_mobile": 63
+        },
+        "https://avtology.com/jeep/grand_cherokee": {
+            "title": "Стоимость владения Jeep Grand Cherokee, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Джип Grand Cherokee - [Jeep Grand Cherokee] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/gaz/2413": {
+            "title": "Стоимость владения ГАЗ 2413, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания ГАЗ 2413 - [ГАЗ 2413] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/mitsubishi/delica": {
+            "title": "Стоимость владения Mitsubishi Delica, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Митсубиси Делика - [Mitsubishi Delica] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 53,
+            "len_title_mobile": 65
+        },
+        "https://avtology.com/daewoo/nubira": {
+            "title": "Стоимость владения Daewoo Nubira, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Дэу Nubira - [Daewoo Nubira] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/bmw/m5": {
+            "title": "Стоимость владения BMW M5, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания БМВ M5 - [BMW M5] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 54,
+            "len_title_mobile": 54
+        },
+        "https://avtology.com/premier/padmini": {
+            "title": "Стоимость владения Premier Padmini, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Premier Padmini - [Premier Padmini] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 51,
+            "len_title_mobile": 51
+        },
+        "https://avtology.com/audi/r8": {
+            "title": "Стоимость владения Audi R8, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ауди R9 - [Audi R8] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/volvo/s80": {
+            "title": "Стоимость владения Volvo S80, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Вольво S81 - [Volvo S80] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/toyota/soarer": {
+            "title": "Стоимость владения Toyota Soarer, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Тойота Соарер - [Toyota Soarer] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/nissan/terrano": {
+            "title": "Стоимость владения Nissan Terrano, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ниссан Террано - [Nissan Terrano] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 50
+        },
+        "https://avtology.com/daihatsu/boon": {
+            "title": "Стоимость владения Daihatsu Boon, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Daihatsu Boon - [Daihatsu Boon] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/porsche/boxster": {
+            "title": "Стоимость владения Porsche Boxster, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Порш Бокстер - [Porsche Boxster] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 51,
+            "len_title_mobile": 51
+        },
+        "https://avtology.com/dodge/nitro": {
+            "title": "Стоимость владения Dodge Nitro, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Додж Nitro - [Dodge Nitro] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/volkswagen/scirocco": {
+            "title": "Стоимость владения Volkswagen Scirocco, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Фольксваген Сирокко - [Volkswagen Scirocco] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/mazda/m_zda_6": {
+            "title": "Стоимость владения Mazda Mаzda 6, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Мазда Mаzda 6 - [Mazda Mаzda 6] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/ford/taurus_x": {
+            "title": "Стоимость владения Ford Taurus X, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Форд Taurus X - [Ford Taurus X] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/jac/rein": {
+            "title": "Стоимость владения JAC Rein, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания JAC Rein - [JAC Rein] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/opel/frontera": {
+            "title": "Стоимость владения Opel Frontera, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Опель Фронтера - [Opel Frontera] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/fiat/126": {
+            "title": "Стоимость владения Fiat 126, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Фиат 126 - [Fiat 126] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/audi/q3": {
+            "title": "Стоимость владения Audi Q3, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ауди Q4 - [Audi Q3] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/hyundai/ix35": {
+            "title": "Стоимость владения Hyundai ix35, включая цену ТО",
+            "description": "Узнай стоимость обслуживания хюндай ix35 - [Hyundai ix35] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/toyota/aristo": {
+            "title": "Стоимость владения Toyota Aristo, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Тойота Аристо - [Toyota Aristo] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/chevrolet/tahoe": {
+            "title": "Стоимость владения Chevrolet Tahoe, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Шевроле Тахо - [Chevrolet Tahoe] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 51,
+            "len_title_mobile": 63
+        },
+        "https://avtology.com/lexus/lx_470": {
+            "title": "Стоимость владения Lexus LX 470, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Лексус LX 470 - [Lexus LX 470] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/dodge/challenger": {
+            "title": "Стоимость владения Dodge Challenger, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Додж Челенгер - [Dodge Challenger] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 52,
+            "len_title_mobile": 52
+        },
+        "https://avtology.com/toyota/land_cruiser_100": {
+            "title": "Стоимость владения Toyota Land Cruiser 100, включая ...",
+            "description": "Узнай стоимость обслуживания Тойота Land Cruiser 100 - [Toyota Land Cruiser 100] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/lotus/elise": {
+            "title": "Стоимость владения Lotus Elise, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Lotus Elise - [Lotus Elise] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/opel/ascona": {
+            "title": "Стоимость владения Opel Ascona, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Опель Аскона - [Opel Ascona] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/audi/a3_sportback": {
+            "title": "Стоимость владения Audi A3 Sportback, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ауди A3 Sportback - [Audi A3 Sportback] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 53,
+            "len_title_mobile": 53
+        },
+        "https://avtology.com/volkswagen/caddy": {
+            "title": "Стоимость владения Volkswagen Caddy, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Фольксваген Кэдди - [Volkswagen Caddy] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 52,
+            "len_title_mobile": 64
+        },
+        "https://avtology.com/dodge/charger": {
+            "title": "Стоимость владения Dodge Charger, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Додж Чаржер - [Dodge Charger] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/gaz/14": {
+            "title": "Стоимость владения ГАЗ 14, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания ГАЗ 14 - [ГАЗ 14] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 54,
+            "len_title_mobile": 54
+        },
+        "https://avtology.com/kia/cerato": {
+            "title": "Стоимость владения Kia Cerato, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Киа Cerato - [Kia Cerato] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 58,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/toyota/yaris": {
+            "title": "Стоимость владения Toyota Yaris, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Тойота Ярис - [Toyota Yaris] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/nissan/primera": {
+            "title": "Стоимость владения Nissan Primera, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ниссан Примера - [Nissan Primera] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 50
+        },
+        "https://avtology.com/lincoln/navigator": {
+            "title": "Стоимость владения Lincoln Navigator, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Lincoln Navigator - [Lincoln Navigator] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 53,
+            "len_title_mobile": 53
+        },
+        "https://avtology.com/nissan/vanette": {
+            "title": "Стоимость владения Nissan Vanette, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ниссан Ванетт - [Nissan Vanette] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 50
+        },
+        "https://avtology.com/nissan/sunny": {
+            "title": "Стоимость владения Nissan Sunny, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ниссан Сани - [Nissan Sunny] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/fiat/500": {
+            "title": "Стоимость владения Fiat 500, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Фиат 500 - [Fiat 500] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/hyundai/santa_fe": {
+            "title": "Стоимость владения Hyundai Santa FE, включая цену ТО",
+            "description": "Узнай стоимость обслуживания хюндай Santa FE - [Hyundai Santa FE] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 52,
+            "len_title_mobile": 64
+        },
+        "https://avtology.com/isuzu/gemini": {
+            "title": "Стоимость владения Isuzu Gemini, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Isuzu Gemini - [Isuzu Gemini] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/volkswagen/phaeton": {
+            "title": "Стоимость владения Volkswagen Phaeton, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Фольксваген Фаэтон - [Volkswagen Phaeton] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 54,
+            "len_title_mobile": 54
+        },
+        "https://avtology.com/fiat/doblo": {
+            "title": "Стоимость владения Fiat Doblo, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Фиат Добло - [Fiat Doblo] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 58,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/bmw/x3": {
+            "title": "Стоимость владения BMW X3, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания БМВ X3 - [BMW X3] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 54,
+            "len_title_mobile": 54
+        },
+        "https://avtology.com/opel/vectra": {
+            "title": "Стоимость владения Opel Vectra, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Опель Vectra - [Opel Vectra] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/fiat/punto": {
+            "title": "Стоимость владения Fiat Punto, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Фиат Punto - [Fiat Punto] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 58,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/chevrolet/epica": {
+            "title": "Стоимость владения Chevrolet Epica, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Шевроле Epica - [Chevrolet Epica] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 51,
+            "len_title_mobile": 63
+        },
+        "https://avtology.com/audi/a6": {
+            "title": "Стоимость владения Audi A6, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ауди A7 - [Audi A6] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/maserati/quattroporte": {
+            "title": "Стоимость владения Maserati Quattroporte, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Maserati Quattroporte - [Maserati Quattroporte] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/infiniti/g": {
+            "title": "Стоимость владения Infiniti G, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания инфинити G - [Infiniti G] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 58,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/subaru/dex": {
+            "title": "Стоимость владения Subaru Dex, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Субару Dex - [Subaru Dex] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 46,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/chery/oriental_son": {
+            "title": "Стоимость владения Chery Oriental Son, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Chery Oriental Son - [Chery Oriental Son] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 54,
+            "len_title_mobile": 66
+        },
+        "https://avtology.com/lexus/is_220": {
+            "title": "Стоимость владения Lexus IS 220, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Лексус IS 220 - [Lexus IS 220] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/honda/prelude": {
+            "title": "Стоимость владения Honda Prelude, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Хонда Прелюд - [Honda Prelude] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 49
+        },
+        "https://avtology.com/bmw/3er": {
+            "title": "Стоимость владения BMW 3er, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания БМВ 3er - [BMW 3er] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/kia/picanto": {
+            "title": "Стоимость владения Kia Picanto, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Киа Picanto - [Kia Picanto] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/hyundai/tucson": {
+            "title": "Стоимость владения Hyundai Tucson, включая цену ТО",
+            "description": "Узнай стоимость обслуживания хюндай Tucson - [Hyundai Tucson] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 50
+        },
+        "https://avtology.com/volkswagen/jetta": {
+            "title": "Стоимость владения Volkswagen Jetta, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Фольксваген Jetta - [Volkswagen Jetta] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 52,
+            "len_title_mobile": 64
+        },
+        "https://avtology.com/renault/megane": {
+            "title": "Стоимость владения Renault Megane, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Рено Меган - [Renault Megane] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 50
+        },
+        "https://avtology.com/lexus/is_200": {
+            "title": "Стоимость владения Lexus IS 200, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Лексус IS 200 - [Lexus IS 200] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/lexus/es_250": {
+            "title": "Стоимость владения Lexus ES 250, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Лексус ES 250 - [Lexus ES 250] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/audi/a8": {
+            "title": "Стоимость владения Audi A8, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ауди A9 - [Audi A8] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/daihatsu/perodua_viva": {
+            "title": "Стоимость владения Daihatsu Perodua Viva, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Daihatsu Perodua Viva - [Daihatsu Perodua Viva] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/volvo/xc70": {
+            "title": "Стоимость владения Volvo XC70, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Вольво XC70 - [Volvo XC70] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 46,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/chevrolet/aveo": {
+            "title": "Стоимость владения Chevrolet Aveo, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Шевроле авео - [Chevrolet Aveo] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 62
+        },
+        "https://avtology.com/vaz/2114": {
+            "title": "Стоимость владения ВАЗ 2114, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ваз 2114 - [ВАЗ 2114] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/toyota/avensis": {
+            "title": "Стоимость владения Toyota Avensis, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Тойота Авенсис - [Toyota Avensis] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 50
+        },
+        "https://avtology.com/toyota/prius": {
+            "title": "Стоимость владения Toyota Prius, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Тойота Prius - [Toyota Prius] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/bmw/1er": {
+            "title": "Стоимость владения BMW 1er, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания БМВ 1er - [BMW 1er] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/ferrari/348": {
+            "title": "Стоимость владения Ferrari 348, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ferrari 348 - [Ferrari 348] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/vaz/2109": {
+            "title": "Стоимость владения ВАЗ 2109, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ваз 2109 - [ВАЗ 2109] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/ford/edge": {
+            "title": "Стоимость владения Ford Edge, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Форд ЕДЖ - [Ford Edge] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/alfa_romeo/147": {
+            "title": "Стоимость владения Alfa Romeo 147, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Альфа Ромео 147 - [Alfa Romeo 147] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 62
+        },
+        "https://avtology.com/hyundai/starex": {
+            "title": "Стоимость владения Hyundai Starex, включая цену ТО",
+            "description": "Узнай стоимость обслуживания хюндай Старекс - [Hyundai Starex] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 62
+        },
+        "https://avtology.com/renault/4": {
+            "title": "Стоимость владения Renault 4, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Рено 4 - [Renault 4] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/gaz/21": {
+            "title": "Стоимость владения ГАЗ 21, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания ГАЗ 21 - [ГАЗ 21] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 54,
+            "len_title_mobile": 54
+        },
+        "https://avtology.com/renault/kangoo": {
+            "title": "Стоимость владения Renault Kangoo, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Рено Кангу - [Renault Kangoo] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 50
+        },
+        "https://avtology.com/maserati/ghibli": {
+            "title": "Стоимость владения Maserati Ghibli, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Maserati Ghibli - [Maserati Ghibli] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 51,
+            "len_title_mobile": 63
+        },
+        "https://avtology.com/bentley/continental": {
+            "title": "Стоимость владения Bentley Continental, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Bentley Continental - [Bentley Continental] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/land_rover/range_rover": {
+            "title": "Стоимость владения Land Rover Range Rover, включая ...",
+            "description": "Узнай стоимость обслуживания Land Rover Range Rover - [Land Rover Range Rover] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 54,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/maserati/shamal": {
+            "title": "Стоимость владения Maserati Shamal, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Maserati Shamal - [Maserati Shamal] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 51,
+            "len_title_mobile": 51
+        },
+        "https://avtology.com/skoda/yeti": {
+            "title": "Стоимость владения Skoda Yeti, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Шкода Йети - [Skoda Yeti] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 58,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/vaz/21124": {
+            "title": "Стоимость владения ВАЗ 21124, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ваз 21124 - [ВАЗ 21124] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 45,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/lexus/gs_300": {
+            "title": "Стоимость владения Lexus GS 300, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Лексус GS 300 - [Lexus GS 300] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/citroen/c5": {
+            "title": "Стоимость владения Citroen C5, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ситроен C5 - [Citroen C5] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 58,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/lexus/is_250": {
+            "title": "Стоимость владения Lexus IS 250, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Лексус IS 250 - [Lexus IS 250] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/nissan/elgrand": {
+            "title": "Стоимость владения Nissan Elgrand, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ниссан Эльгранд - [Nissan Elgrand] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 50
+        },
+        "https://avtology.com/gaz/2434": {
+            "title": "Стоимость владения ГАЗ 2434, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания ГАЗ 2434 - [ГАЗ 2434] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "http://avtology.com/vaz/2111_______________2_": {
+            "title": "Стоимость владения ВАЗ 2111 (Тарзан 2), включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ваз 2111 (Тарзан 2) - [ВАЗ 2111 (Тарзан 2)] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/bmw/x6_m": {
+            "title": "Стоимость владения BMW X6 M, включая цену ТО",
+            "description": "Узнай стоимость обслуживания БМВ X6 M - [BMW X6 M] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 44,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/moskvitch_AZLK/400": {
+            "title": "Стоимость владения Москвич (АЗЛК) 400, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Москвич (АЗЛК) 400 - [Москвич (АЗЛК) 400] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 54,
+            "len_title_mobile": 54
+        },
+        "https://avtology.com/great_wall/hover": {
+            "title": "Стоимость владения Great Wall Hover, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Great Wall Hover - [Great Wall Hover] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 52,
+            "len_title_mobile": 64
+        },
+        "https://avtology.com/ferrari/430": {
+            "title": "Стоимость владения Ferrari 430, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ferrari 430 - [Ferrari 430] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/audi/q5": {
+            "title": "Стоимость владения Audi Q5, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ауди Q6 - [Audi Q5] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/cadillac/cts": {
+            "title": "Стоимость владения Cadillac CTS, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Кадилак CTS - [Cadillac CTS] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/audi/s5": {
+            "title": "Стоимость владения Audi S5, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ауди S6 - [Audi S5] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/toyota/tundra": {
+            "title": "Стоимость владения Toyota Tundra, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Тойота Тундра - [Toyota Tundra] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/kia/quoris": {
+            "title": "Стоимость владения Kia Quoris, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Киа Quoris - [Kia Quoris] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 58,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/ssang_yong/rexton": {
+            "title": "Стоимость владения Ssang Yong Rexton, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ssang Yong Rexton - [Ssang Yong Rexton] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 53,
+            "len_title_mobile": 53
+        },
+        "https://avtology.com/opel/omega": {
+            "title": "Стоимость владения Opel Omega, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Опель Омега - [Opel Omega] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 46,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/maserati/granturismo": {
+            "title": "Стоимость владения Maserati GranTurismo, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Maserati GranTurismo - [Maserati GranTurismo] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/ford/fusion": {
+            "title": "Стоимость владения Ford Fusion, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Форд Fusion - [Ford Fusion] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/ford/galaxy": {
+            "title": "Стоимость владения Ford Galaxy, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Форд Галакси - [Ford Galaxy] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/kia/opirus": {
+            "title": "Стоимость владения Kia Opirus, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Киа Опирус - [Kia Opirus] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 58,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/toyota/sequoia": {
+            "title": "Стоимость владения Toyota Sequoia, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Тойота Секвойя - [Toyota Sequoia] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 62
+        },
+        "https://avtology.com/audi/a7": {
+            "title": "Стоимость владения Audi A7, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ауди A8 - [Audi A7] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/lexus/es_350": {
+            "title": "Стоимость владения Lexus ES 350, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Лексус ES 350 - [Lexus ES 350] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/peugeot/rcz": {
+            "title": "Стоимость владения Peugeot RCZ, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Пежо RCZ - [Peugeot RCZ] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/izh/2126": {
+            "title": "Стоимость владения ИЖ 2126, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания ИЖ 2126 - [ИЖ 2126] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/chevrolet/niva": {
+            "title": "Стоимость владения Chevrolet Niva, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Шевроле Нива - [Chevrolet Niva] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 62
+        },
+        "https://avtology.com/mercedes-benz": {
+            "title": "Стоимости владения Mercedes-Benz, включая обслуживание",
+            "description": "Немецкая компания Mercedes-Benz была основана в 1926 году, является дочерним предприятием концерна Daimler-Benz и производит легковые автомобили и двигатели ...",
+            "len_title_desktop": 54,
+            "len_title_mobile": 25
+        },
+        "https://avtology.com/toyota/rav_4": {
+            "title": "Стоимость владения Toyota RAV 4, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Тойота RAV 4 - [Toyota RAV 4] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/infiniti/fx": {
+            "title": "Стоимость владения Infiniti FX, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания инфинити FX - [Infiniti FX] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 59,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/bmw/m3": {
+            "title": "Стоимость владения BMW M3, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания БМВ M3 - [BMW M3] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 54,
+            "len_title_mobile": 54
+        },
+        "https://avtology.com/toyota/chaser": {
+            "title": "Стоимость владения Toyota Chaser, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Тойота Chaser - [Toyota Chaser] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/toyota/supra": {
+            "title": "Стоимость владения Toyota Supra, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Тойота Супра - [Toyota Supra] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/holden/ute": {
+            "title": "Стоимость владения Holden UTE, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Holden UTE - [Holden UTE] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 46,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/land_rover/discovery": {
+            "title": "Стоимость владения Land Rover Discovery, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Land Rover Discovery - [Land Rover Discovery] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/honda/civic": {
+            "title": "Стоимость владения Honda Civic, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Хонда Сивик - [Honda Civic] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/kia/optima": {
+            "title": "Стоимость владения Kia Optima, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Киа Оптима - [Kia Optima] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 46,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/renault/vel_satis": {
+            "title": "Стоимость владения Renault Vel Satis, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Рено Vel Satis - [Renault Vel Satis] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 53,
+            "len_title_mobile": 65
+        },
+        "https://avtology.com/mini/cooper": {
+            "title": "Стоимость владения Mini Cooper, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Мини Купер - [Mini Cooper] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/honda/ascot": {
+            "title": "Стоимость владения Honda Ascot, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Хонда Аскот - [Honda Ascot] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47
+        },
+        "https://avtology.com/jaguar/xk_8": {
+            "title": "Стоимость владения Jaguar XK 8, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ягуар XK 8 - [Jaguar XK 8] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/ford/focus": {
+            "title": "Стоимость владения Ford Focus, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Форд Фокус - [Ford Focus] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 46,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/honda/nsx": {
+            "title": "Стоимость владения Honda NSX, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Хонда NSX - [Honda NSX] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 45,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/toyota/corolla_rumion": {
+            "title": "Стоимость владения Toyota Corolla Rumion, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Тойота Corolla Rumion - [Toyota Corolla Rumion] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/dodge/durango": {
+            "title": "Стоимость владения Dodge Durango, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Додж Дуранго - [Dodge Durango] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 49
+        },
+        "https://avtology.com/mc_laren/f1": {
+            "title": "Стоимость владения Mc Laren F1, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Mc Laren F1 - [Mc Laren F1] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/chevrolet/lacetti": {
+            "title": "Стоимость владения Chevrolet Lacetti, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Шевроле Лачетти - [Chevrolet Lacetti] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 53,
+            "len_title_mobile": 65
+        },
+        "https://avtology.com/gaz/2424": {
+            "title": "Стоимость владения ГАЗ 2424, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания ГАЗ 2424 - [ГАЗ 2424] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/bmw/x6": {
+            "title": "Стоимость владения BMW X6, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания БМВ X6 - [BMW X6] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 54,
+            "len_title_mobile": 54
+        },
+        "https://avtology.com/toyota/land_cruiser_prado_90": {
+            "title": "Стоимость владения Toyota Land Cruiser Prado 90, включая ...",
+            "description": "Узнай стоимость обслуживания Тойота Land Cruiser Prado 90 - [Toyota Land Cruiser Prado 90] на ближайший год владения, прогноз содержит цену ТО и многое ...",
+            "len_title_desktop": 60,
+            "len_title_mobile": 64
+        },
+        "https://avtology.com/audi/tt": {
+            "title": "Стоимость владения Audi TT, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ауди TT - [Audi TT] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/mazda/persona": {
+            "title": "Стоимость владения Mazda Persona, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Мазда Persona - [Mazda Persona] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/lamborghini/aventador": {
+            "title": "Стоимость владения Lamborghini Aventador, включая цену ...",
+            "description": "Узнай стоимость обслуживания Lamborghini Aventador - [Lamborghini Aventador] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 58,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/subaru/xv": {
+            "title": "Стоимость владения Subaru XV, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Субару XV - [Subaru XV] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/nissan/qashqai_2": {
+            "title": "Стоимость владения Nissan Qashqai+2, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ниссан Qashqai+2 - [Nissan Qashqai+2] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 52,
+            "len_title_mobile": 64
+        },
+        "https://avtology.com/honda/crossroad": {
+            "title": "Стоимость владения Honda Crossroad, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Хонда КроссРоад - [Honda Crossroad] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 51,
+            "len_title_mobile": 51
+        },
+        "https://avtology.com/saturn/sw": {
+            "title": "Стоимость владения Saturn SW, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Saturn SW - [Saturn SW] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/mitsubishi/outlander": {
+            "title": "Стоимость владения Mitsubishi Outlander, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Митсубиси Аутландер - [Mitsubishi Outlander] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/suzuki/jimny": {
+            "title": "Стоимость владения Suzuki Jimny, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Сузуки Джимни - [Suzuki Jimny] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/renault/5": {
+            "title": "Стоимость владения Renault 5, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Рено 5 - [Renault 5] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/volkswagen/touareg": {
+            "title": "Стоимость владения Volkswagen Touareg, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Фольксваген Туарег - [Volkswagen Touareg] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 54,
+            "len_title_mobile": 54
+        },
+        "https://avtology.com/nissan/pathfinder": {
+            "title": "Стоимость владения Nissan Pathfinder, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ниссан Пасфайндер - [Nissan Pathfinder] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 53,
+            "len_title_mobile": 53
+        },
+        "https://avtology.com/audi/s2": {
+            "title": "Стоимость владения Audi S2, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ауди S2 - [Audi S2] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/alfa_romeo/giulietta": {
+            "title": "Стоимость владения Alfa Romeo Giulietta, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Альфа Ромео Giulietta - [Alfa Romeo Giulietta] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/tofas/kartal": {
+            "title": "Стоимость владения Tofas Kartal, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Tofas Kartal - [Tofas Kartal] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/kia/cee__d": {
+            "title": "Стоимость владения Kia Cee'd, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Киа Cee'd - [Kia Cee'd] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/scion/tc": {
+            "title": "Стоимость владения Scion tC, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Scion tC - [Scion tC] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/toyota/bb": {
+            "title": "Стоимость владения Toyota BB, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Тойота BB - [Toyota BB] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/honda/fit": {
+            "title": "Стоимость владения Honda Fit, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Хонда Fit - [Honda Fit] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/nissan/serena": {
+            "title": "Стоимость владения Nissan Serena, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ниссан Серена - [Nissan Serena] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/fiat/tipo": {
+            "title": "Стоимость владения Fiat Tipo, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Фиат Tipo - [Fiat Tipo] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/lexus/gs_350": {
+            "title": "Стоимость владения Lexus GS 350, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Лексус GS 350 - [Lexus GS 350] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/vaz/kalina": {
+            "title": "Стоимость владения ВАЗ Kalina, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ваз Kalina - [ВАЗ Kalina] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 46,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/honda/crx": {
+            "title": "Стоимость владения Honda CRX, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Хонда CRX - [Honda CRX] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 45,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/chrysler/300m": {
+            "title": "Стоимость владения Chrysler 300M, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Крайслер 300M - [Chrysler 300M] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/cadillac/seville": {
+            "title": "Стоимость владения Cadillac Seville, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Кадилак Севилья - [Cadillac Seville] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 52,
+            "len_title_mobile": 64
+        },
+        "https://avtology.com/lexus/rx_300": {
+            "title": "Стоимость владения Lexus RX 300, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Лексус RX 300 - [Lexus RX 300] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/porsche/cayenne": {
+            "title": "Стоимость владения Porsche Cayenne, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Порш Кайен - [Porsche Cayenne] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 51,
+            "len_title_mobile": 51
+        },
+        "https://avtology.com/infiniti/jx": {
+            "title": "Стоимость владения Infiniti JX, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания инфинити JX - [Infiniti JX] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 59,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/chevrolet/cruze": {
+            "title": "Стоимость владения Chevrolet Cruze, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Шевроле Cruze - [Chevrolet Cruze] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 51,
+            "len_title_mobile": 63
+        },
+        "https://avtology.com/chevrolet/captiva": {
+            "title": "Стоимость владения Chevrolet Captiva, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Шевроле Каптива - [Chevrolet Captiva] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 53,
+            "len_title_mobile": 53
+        },
+        "https://avtology.com/rover/75": {
+            "title": "Стоимость владения Rover 75, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ровер 75 - [Rover 75] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/lexus/lx_570": {
+            "title": "Стоимость владения Lexus LX 570, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Лексус LX 570 - [Lexus LX 570] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/vaz/21059": {
+            "title": "Стоимость владения ВАЗ 21059, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ваз 21059 - [ВАЗ 21059] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 45,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/mitsubishi/fto": {
+            "title": "Стоимость владения Mitsubishi FTO, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Митсубиси FTO - [Mitsubishi FTO] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 62
+        },
+        "https://avtology.com/alfa_romeo/gtv": {
+            "title": "Стоимость владения Alfa Romeo GTV, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Альфа Ромео GTV - [Alfa Romeo GTV] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 62
+        },
+        "https://avtology.com/citroen/c4": {
+            "title": "Стоимость владения Citroen C4, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ситроен C4 - [Citroen C4] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 58,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/volkswagen/passat": {
+            "title": "Стоимость владения Volkswagen Passat, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Фольксваген Пассат - [Volkswagen Passat] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 53,
+            "len_title_mobile": 65
+        },
+        "https://avtology.com/audi/rs3": {
+            "title": "Стоимость владения Audi RS3, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ауди RS3 - [Audi RS3] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/renault/sandero_stepway": {
+            "title": "Стоимость владения Renault Sandero Stepway, включая ...",
+            "description": "Узнай стоимость обслуживания Рено Sandero Stepway - [Renault Sandero Stepway] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/porsche/panamera": {
+            "title": "Стоимость владения Porsche Panamera, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Порш Panamera - [Porsche Panamera] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 52,
+            "len_title_mobile": 52
+        },
+        "https://avtology.com/sma/c52": {
+            "title": "Стоимость владения SMA С52, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания SMA С52 - [SMA С52] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/vaz/largus": {
+            "title": "Стоимость владения ВАЗ Largus, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ваз Ларгус - [ВАЗ Largus] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 46,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/volvo/s60": {
+            "title": "Стоимость владения Volvo S60, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Вольво S61 - [Volvo S60] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/honda/shuttle": {
+            "title": "Стоимость владения Honda Shuttle, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Хонда Шаттл - [Honda Shuttle] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/gaz/M1": {
+            "title": "Стоимость владения ГАЗ М1, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания ГАЗ М1 - [ГАЗ М1] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 54,
+            "len_title_mobile": 54
+        },
+        "https://avtology.com/vaz/priora": {
+            "title": "Стоимость владения ВАЗ Priora, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ваз Priora - [ВАЗ Priora] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 58,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/porsche/cayman": {
+            "title": "Стоимость владения Porsche Cayman, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Порш Кайман - [Porsche Cayman] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 50
+        },
+        "https://avtology.com/peugeot/107": {
+            "title": "Стоимость владения Peugeot 107, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Пежо 107 - [Peugeot 107] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/nissan/skyline": {
+            "title": "Стоимость владения Nissan Skyline, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ниссан СкайЛайн - [Nissan Skyline] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 62
+        },
+        "https://avtology.com/gmc/sierra": {
+            "title": "Стоимость владения GMC Sierra, включая цену ТО",
+            "description": "Узнай стоимость обслуживания GMC Sierra - [GMC Sierra] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 46,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/nissan/qashqai": {
+            "title": "Стоимость владения Nissan Qashqai, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ниссан Кашкай - [Nissan Qashqai] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 62
+        },
+        "https://avtology.com/vaz/2101": {
+            "title": "Стоимость владения ВАЗ 2101, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ваз 2101 - [ВАЗ 2101] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/toyota/avalon": {
+            "title": "Стоимость владения Toyota Avalon, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Тойота Авалон - [Toyota Avalon] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/vaz/2115": {
+            "title": "Стоимость владения ВАЗ 2115, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ваз 2115 - [ВАЗ 2115] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/vaz/21044": {
+            "title": "Стоимость владения ВАЗ 21044, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ваз 21044 - [ВАЗ 21044] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 45,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/volvo/v40": {
+            "title": "Стоимость владения Volvo V40, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Вольво V41 - [Volvo V40] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/seat/leon": {
+            "title": "Стоимость владения SEAT Leon, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Сеат Леон - [SEAT Leon] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 45,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/LUAZ/967": {
+            "title": "Стоимость владения ЛУАЗ 967, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания ЛУАЗ 967 - [ЛУАЗ 967] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/lancia/kappa": {
+            "title": "Стоимость владения Lancia Kappa, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Lancia Kappa - [Lancia Kappa] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/vaz/21099": {
+            "title": "Стоимость владения ВАЗ 21099, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ваз 21099 - [ВАЗ 21099] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 45,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/renault/koleos": {
+            "title": "Стоимость владения Renault Koleos, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Рено Колеос - [Renault Koleos] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 62
+        },
+        "https://avtology.com/renault/fluence": {
+            "title": "Стоимость владения Renault Fluence, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Рено Флюенс - [Renault Fluence] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 51,
+            "len_title_mobile": 51
+        },
+        "https://avtology.com/chrysler/300c": {
+            "title": "Стоимость владения Chrysler 300C, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Крайслер 300C - [Chrysler 300C] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/opel/insignia": {
+            "title": "Стоимость владения Opel Insignia, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Опель Инсигния - [Opel Insignia] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/audi/s4": {
+            "title": "Стоимость владения Audi S4, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ауди S5 - [Audi S4] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/aston_martin/vantage": {
+            "title": "Стоимость владения Aston Martin Vantage, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Aston Martin Vantage - [Aston Martin Vantage] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/volvo/xc90": {
+            "title": "Стоимость владения Volvo XC90, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Вольво XC90 - [Volvo XC90] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 46,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/subaru/forester": {
+            "title": "Стоимость владения Subaru Forester, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Субару Форестер - [Subaru Forester] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 51,
+            "len_title_mobile": 51
+        },
+        "https://avtology.com/peugeot/406": {
+            "title": "Стоимость владения Peugeot 406, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Пежо 406 - [Peugeot 406] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/volvo/s40": {
+            "title": "Стоимость владения Volvo S40, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Вольво S41 - [Volvo S40] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/renault/symbol": {
+            "title": "Стоимость владения Renault Symbol, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Рено Символ - [Renault Symbol] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 62
+        },
+        "https://avtology.com/peugeot/407": {
+            "title": "Стоимость владения Peugeot 407, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Пежо 407 - [Peugeot 407] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/ford/sierra": {
+            "title": "Стоимость владения Ford Sierra, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Форд Сьерра - [Ford Sierra] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/toyota/urban_cruiser": {
+            "title": "Стоимость владения Toyota Urban Cruiser, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Тойота Urban Cruiser - [Toyota Urban Cruiser] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/vaz/21091": {
+            "title": "Стоимость владения ВАЗ 21091, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ваз 21091 - [ВАЗ 21091] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 45,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/audi/a3": {
+            "title": "Стоимость владения Audi A3, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ауди A4 - [Audi A3] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/kia/rio": {
+            "title": "Стоимость владения Kia Rio, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Киа Rio - [Kia Rio] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/mitsubishi/galant": {
+            "title": "Стоимость владения Mitsubishi Galant, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Митсубиси Галант - [Mitsubishi Galant] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 53,
+            "len_title_mobile": 65
+        },
+        "https://avtology.com/gaz/31029": {
+            "title": "Стоимость владения ГАЗ 31029, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания ГАЗ 31029 - [ГАЗ 31029] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/smart/roadster": {
+            "title": "Стоимость владения Smart Roadster, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Smart Roadster - [Smart Roadster] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 62
+        },
+        "https://avtology.com/toyota/gaia": {
+            "title": "Стоимость владения Toyota Gaia, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Тойота Gaia - [Toyota Gaia] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/toyota/land_cruiser_200": {
+            "title": "Стоимость владения Toyota Land Cruiser 200, включая ...",
+            "description": "Узнай стоимость обслуживания Тойота Land Cruiser 200 - [Toyota Land Cruiser 200] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/audi/a5_sportback": {
+            "title": "Стоимость владения Audi A5 Sportback, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ауди A5 Sportback - [Audi A5 Sportback] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 53,
+            "len_title_mobile": 53
+        },
+        "https://avtology.com/tata/mint": {
+            "title": "Стоимость владения TATA Mint, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания TATA Mint - [TATA Mint] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/kamaz/oka": {
+            "title": "Стоимость владения КамАЗ Ока, включая цену ТО",
+            "description": "Узнай стоимость обслуживания КамАЗ Ока - [КамАЗ Ока] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 45,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/dodge/ram": {
+            "title": "Стоимость владения Dodge RAM, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Додж RAM - [Dodge RAM] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 45,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/hyundai/accent": {
+            "title": "Стоимость владения Hyundai Accent, включая цену ТО",
+            "description": "Узнай стоимость обслуживания хюндай Акцент - [Hyundai Accent] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 62
+        },
+        "https://avtology.com/chevrolet/malibu": {
+            "title": "Стоимость владения Chevrolet Malibu, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Шевроле Малибу - [Chevrolet Malibu] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 52,
+            "len_title_mobile": 64
+        },
+        "https://avtology.com/volkswagen/tiguan": {
+            "title": "Стоимость владения Volkswagen Tiguan, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Фольксваген Тигуан - [Volkswagen Tiguan] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 53,
+            "len_title_mobile": 65
+        },
+        "https://avtology.com/nissan/350z": {
+            "title": "Стоимость владения Nissan 350Z, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ниссан 350Z - [Nissan 350Z] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/smart/fortwo": {
+            "title": "Стоимость владения Smart Fortwo, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Smart Fortwo - [Smart Fortwo] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/isuzu/bighorn": {
+            "title": "Стоимость владения Isuzu Bighorn, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Isuzu Bighorn - [Isuzu Bighorn] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/ford/fiesta": {
+            "title": "Стоимость владения Ford Fiesta, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Форд Фиеста - [Ford Fiesta] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/subaru/outback": {
+            "title": "Стоимость владения Subaru Outback, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Субару Аутбэк - [Subaru Outback] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 50
+        },
+        "https://avtology.com/holden/monaro": {
+            "title": "Стоимость владения Holden Monaro, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Holden Monaro - [Holden Monaro] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/daihatsu/yrv": {
+            "title": "Стоимость владения Daihatsu YRV, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Daihatsu YRV - [Daihatsu YRV] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/ford/excursion": {
+            "title": "Стоимость владения Ford Excursion, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Форд Excursion - [Ford Excursion] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 50
+        },
+        "https://avtology.com/audi/a1": {
+            "title": "Стоимость владения Audi A1, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ауди A2 - [Audi A1] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/opel/zafira": {
+            "title": "Стоимость владения Opel Zafira, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Опель Зафира - [Opel Zafira] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/vaz/2107": {
+            "title": "Стоимость владения ВАЗ 2107, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ваз 2107 - [ВАЗ 2107] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/nissan/leaf": {
+            "title": "Стоимость владения Nissan Leaf, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ниссан ЛИФ - [Nissan Leaf] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 47,
+            "len_title_mobile": 59
+        },
+        "https://avtology.com/toyota/hilux": {
+            "title": "Стоимость владения Toyota Hilux, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Тойота Hilux - [Toyota Hilux] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/gmc/savana": {
+            "title": "Стоимость владения GMC Savana, включая цену ТО",
+            "description": "Узнай стоимость обслуживания GMC Savana - [GMC Savana] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 46,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/lexus/ls_430": {
+            "title": "Стоимость владения Lexus LS 430, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Лексус LS 430 - [Lexus LS 430] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/bmw/z4_m": {
+            "title": "Стоимость владения BMW Z4 M, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания БМВ Z4 M - [BMW Z4 M] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/vaz/2111": {
+            "title": "Стоимость владения ВАЗ 2111, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ваз 2111 - [ВАЗ 2111] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/toyota/harrier": {
+            "title": "Стоимость владения Toyota Harrier, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Тойота Harrier - [Toyota Harrier] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 62
+        },
+        "https://avtology.com/renault/scenic": {
+            "title": "Стоимость владения Renault Scenic, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Рено Scenic - [Renault Scenic] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 50,
+            "len_title_mobile": 62
+        },
+        "https://avtology.com/chrysler/pt_cruiser": {
+            "title": "Стоимость владения Chrysler PT Cruiser, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Крайслер PT Cruiser - [Chrysler PT Cruiser] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 55,
+            "len_title_mobile": 55
+        },
+        "https://avtology.com/jaguar/xf": {
+            "title": "Стоимость владения Jaguar XF, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Ягуар XF - [Jaguar XF] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/subaru/brz": {
+            "title": "Стоимость владения Subaru BRZ, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Субару BRZ - [Subaru BRZ] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 46,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/volvo/c30": {
+            "title": "Стоимость владения Volvo C30, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Вольво C31 - [Volvo C30] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/mini/clubman": {
+            "title": "Стоимость владения Mini Clubman, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Мини Clubman - [Mini Clubman] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 60
+        },
+        "https://avtology.com/kia/cee_d": {
+            "title": "Стоимость владения Kia Ceed, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Киа СИД - [Kia Ceed] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/ferrari/458_italia": {
+            "title": "Стоимость владения Ferrari 458 Italia, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Ferrari 458 Italia - [Ferrari 458 Italia] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 54,
+            "len_title_mobile": 66
+        },
+        "https://avtology.com/saab/09_5": {
+            "title": "Стоимость владения Saab 9-5, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Сааб 9-5 - [Saab 9-5] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 56,
+            "len_title_mobile": 56
+        },
+        "https://avtology.com/honda/integra": {
+            "title": "Стоимость владения Honda Integra, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Хонда Интегрира - [Honda Integra] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 49,
+            "len_title_mobile": 61
+        },
+        "https://avtology.com/ford/kuga": {
+            "title": "Стоимость владения Ford Kuga, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Форд Куга - [Ford Kuga] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/chrysler/sebring": {
+            "title": "Стоимость владения Chrysler Sebring, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Крайслер Себринг - [Chrysler Sebring] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 52,
+            "len_title_mobile": 52
+        },
+        "https://avtology.com/maybach/maybach_57____maybach_62": {
+            "title": "Стоимость владения Maybach Maybach 57 и ... - Автология",
+            "description": "Узнай стоимость обслуживания Maybach Maybach 57 и Maybach 62 - [Maybach Maybach 57 и Maybach 62] на ближайший год владения, прогноз содержит цену ТО и ...",
+            "len_title_desktop": 55
+        },
+        "http://avtology.com/toyota/land_cruiser_prado_150": {
+            "title": "Стоимость владения Toyota Land Cruiser Prado 150 ...",
+            "description": "Узнай стоимость обслуживания Тойота Land Cruiser Prado 150 - [Toyota Land Cruiser Prado 150] на ближайший год владения, прогноз содержит цену ТО и многое ...",
+            "len_title_desktop": 52,
+            "len_title_mobile": 65
+        },
+        "https://www.avtology.com/seat/cordoba": {
+            "title": "Стоимость владения SEAT Cordoba, включая цену ТО",
+            "description": "Узнай стоимость обслуживания Сеат Кордова - [SEAT Cordoba] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 48,
+            "len_title_mobile": 48
+        },
+        "https://www.avtology.com/hyundai/getz": {
+            "title": "Стоимость владения Hyundai Getz, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания хюндай гетс - [Hyundai Getz] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 60,
+            "len_title_mobile": 60
+        },
+        "https://www.avtology.com/toyota/iq": {
+            "title": "Стоимость владения Toyota iQ, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Тойота iQ - [Toyota iQ] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 57,
+            "len_title_mobile": 57
+        },
+        "https://avtology.com/ford/s-max": {
+            "title": "Стоимость владения Ford S-MAX, включая цену ТО - Автология",
+            "description": "Узнай стоимость обслуживания Форд S-MAX - [Ford S-MAX] на ближайший год владения, прогноз содержит цену ТО и многое другое.",
+            "len_title_desktop": 58,
+            "len_title_mobile": 58
+        },
+        "https://avtology.com/businesses?page=6&per-page=5": {
+            "title": "ПОДБОР АВТОСЕРВИСА - Автология",
+            "description": "≈3.14 км. 27. Marussia Motors. Москва , переулок Чернышевского, 1 ≈3.16 км. 28.",
+            "len_title_desktop": 30,
+            "len_title_mobile": 30
+        }
+    }
+}
