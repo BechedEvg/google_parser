@@ -36,7 +36,7 @@ class DriverChrome:
 
 
 def json_write(result_dict):
-    with open('Result.json', 'w') as outfile:
+    with open('google_result.json', 'w', encoding="utf-8") as outfile:
         json.dump(result_dict, outfile, indent=4, ensure_ascii=False)
 
 
