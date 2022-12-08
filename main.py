@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium_stealth import stealth
+from selenium.webdriver.chrome.service import Service
 import os
 import re
 import json
@@ -19,8 +20,7 @@ class DriverChrome:
         self.options.add_experimental_option('useAutomationExtension', False)
 
     def open_browser(self):
-        self.driver = webdriver.Chrome(options=self.options,
-                                       executable_path=rf"{os.getcwd()}/chromedriver")
+        self.driver = webdriver.Chrome(options=self.options, service=Service(rf"{os.getcwd()}/chromedriver"))
 
         stealth(self.driver,
                 languages=["en-US", "en"],
